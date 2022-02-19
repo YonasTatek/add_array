@@ -1,0 +1,19 @@
+{
+  "name": "add-array",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YonasTatek/add_array.git"
+  },
+  "author": "yonas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YonasTatek/add_array/issues"
+  },
+  "homepage": "https://github.com/YonasTatek/add_array#readme"
+}
