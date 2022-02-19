@@ -1,6 +1,5 @@
 # add-array
-
-> Combines a list of arrays, returning a sum of the numbers found.
+Combines a list of arrays, returning a sum of the numbers found.
 
 ## Install
 
